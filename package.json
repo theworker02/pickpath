@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/pickpath",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pick numeric path values, ranges, and human-readable units.",
+  "bin": {
+    "pickpath": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/pickpath.git"
+  },
+  "homepage": "https://theworker02.github.io/pickpath/",
+  "keywords": [
+    "pick",
+    "path",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
